@@ -1,16 +1,24 @@
-### Hi there 👋
+# 💫 About Me:
+🚀 Hey fellow coders! I'm Razick Fareedh Abdul Hakeem, a tech enthusiast and ninja-level software engineer delving into the realms of software development. Currently, I'm embarking on my journey as a first-year Software Engineering student at Asia Pacific Institute of Information Technology (APIIT), honing my skills and gearing up to make waves in the tech world.<br><br>💡 In my arsenal, you'll find spells for Python 🐍, PHP 💻, React ⚛️, HTML 🌐, CSS 🎨, and a knack for weaving enchanting solutions in various domains of software engineering. My days involve delving into code, exploring new technologies, and turning challenges into triumphs.<br><br>🌟 Key Superpowers:<br><br>Proficient in HTML, CSS, JavaScript, PHP, SQL, MySQL<br>Familiarity with Tailwind.css and Alpajn.js<br>Eager learner, ready to tackle any coding challenge head-on<br>🔧 Epic Arsenal:<br><br>Languages: HTML, CSS, JavaScript, PHP, SQL, MySQL<br>Tools: Tailwind.css, Alpajn.js<br>Cloud: AWS, Azure, Alibaba, Google<br><br>🏆 Beyond the coding battlegrounds, I'm passionate about learning, innovation, and making a difference in the tech world. Even in the early stages of my journey, I strive for excellence and aim to leave my mark in the field of software engineering.<br><br>🤝 Seeking fellow adventurers and mentors! Let's join forces and craft legendary code together. Connect with me on Abdul Hakeem for updates or shoot me an email at hakeemfareed01@gmail.com.<br><br>🚀 Ready to embark on this exhilarating journey, I'm committed to pushing the boundaries of technology. Together, let's create a future that's nothing short of legendary!
 
-<!--
-**ABD-HAKEEM/ABD-HAKEEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hakeemabdum?mibextid=LQQJ4d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-hakeem-0168481b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hakeemabdul64) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=plastic&logo=Apache%20Ant&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ABD-HAKEEM&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ABD-HAKEEM&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABD-HAKEEM&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ABD-HAKEEM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ABD-HAKEEM&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ABD-HAKEEM&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
